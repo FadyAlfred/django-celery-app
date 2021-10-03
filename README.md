@@ -1,9 +1,9 @@
-Django Celery Sample App
+Django Celery Simple App
 ---
 
 ### Introduction
 
-This is a sample app with only 2 celery tasks for demonstrating the async tasks in celery 
+This is a simple app with only 2 celery tasks for demonstrating the async tasks in celery 
 
 ### Technologies
 
